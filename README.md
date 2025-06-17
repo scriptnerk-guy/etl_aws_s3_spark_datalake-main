@@ -52,4 +52,4 @@ The result tables look like in the following screenshots:
 ![Songplays table for ETL AWS Sparkify project](/img/5_songplays_table.jpg)
 
 
-# ETL can potentially be transformed into ELT.
+# ETL can potentially be transformed into ELT. (Please consider about this)
