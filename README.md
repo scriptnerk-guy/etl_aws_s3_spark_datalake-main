@@ -50,3 +50,6 @@ The result tables look like in the following screenshots:
 5. Songplays table:
 
 ![Songplays table for ETL AWS Sparkify project](/img/5_songplays_table.jpg)
+
+
+## ETL pipeline with AWS S3 and Spark
